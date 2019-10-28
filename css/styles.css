@@ -1,0 +1,17 @@
+.hide-me {
+
+}
+
+.full-page {
+  height: 100%;
+  background-color: pink;
+  margin-top: 40px;
+  min-height: 700px;
+  max-width: 600px;
+  padding: 30px;
+  margin: 0, auto;
+}
+
+.heading {
+  text-align: center;
+}
